@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  La parte fija del fichero xml correspondiente a un rss  -->
+<rss version="2.0">
+    <channel>
+      <title>Página web de Pelis/Series</title>
+      <link>https://alucarlosp.github.io/MiWebv2/</link>
+      <description>Recomendaciones de pelis y series, novedades, reseñas, opiniones</description>
+      <!--  La parte fija opcional  -->
+      <language>es-ES</language>
+      <image>
+        <title></title>
+        <url>https://alucarlosp.github.io/MiWebv2/Imagenes/LogoRSS.png</url>
+        <link>https://alucarlosp.github.io/MiWebv2/</link>
+      </image>
+      <!--  La parte variable, la que corresponde a cada noticia o ítem  -->
+      <item>
+        <title>Plataformas más destacadas</title>
+        <link>https://alucarlosp.github.io/MiWebv2/aboutmev2.html#Plataformas</link>
+        <description>Tienes dudas sobre a que plataforma suscribirte? Aquí aclaramos a cual debes suscribirte.</description>
+      </item>
+      <item>
+        <title>Pelis? Mejor trilogias</title>
+        <link>https://alucarlosp.github.io/MiWebv2/aboutmev2.html#Pelis</link>
+        <description>Quien no quiere un plan de maratón de pelis, pues las Trilogias son lo mejor!</description>
+      </item>
+      <item>
+        <title>Dejanos tu opinión!</title>
+        <link>https://alucarlosp.github.io/MiWebv2/aboutmev2.html#Encuesta</link>
+        <description>Tu opinión nos importa. Gracias!</description>
+      </item>
+    </channel>
+</rss>
