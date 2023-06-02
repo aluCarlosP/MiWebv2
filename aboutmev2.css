@@ -3,6 +3,11 @@ body {
     font-family: Georgia, Times, 'Times New Roman', serif;
 }
 
+/*Índice*/
+.indice {
+  text-align: center;
+}
+
 /*Cabecera*/
 .cabecera {
     overflow:auto;
