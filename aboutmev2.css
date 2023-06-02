@@ -28,7 +28,7 @@ body {
 }
 
 .FondoPlat {
-    background-image: url('../Imagenes/FondoClaro.jpg');
+    background-image: url('Imagenes/FondoClaro.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -55,7 +55,7 @@ a {
 
 
 .Fondo {
-    background-image: url('../Imagenes/FondoClaroVistas.jpg');
+    background-image: url('Imagenes/FondoClaroVistas.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
